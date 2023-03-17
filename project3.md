@@ -19,7 +19,7 @@ Install Node.js on the server with the command below
 `sudo apt-get install -y nodejs`
 
 
-![nodeindexjs](./images/npm%20node%20installation.png)
+![nodeindexjs](./Images/npm%20node%20installation.png)
 
 Verify the node installation with the command below
 
@@ -44,7 +44,7 @@ Next, you will use the command 'npm' init to initialise your project, so that a 
 `npm init`
 
 
-![PackageJson](./images/Package%20json%20init.png)
+![PackageJson](./Images/Package%20json%20init.png)
 
 Run the command 'ls' to confirm that you have package.json file created
 
@@ -53,7 +53,7 @@ To use express, install it using npm:
 `npm install express`
 
 
-![Express](./images/Install%20Express.png)
+![Express](./Images/Install%20Express.png)
 
 Now create a file index.js with the command below
 
@@ -109,7 +109,7 @@ Open up your browser and try to access your server’s Public IP or Public DNS n
 ```bash
 http://<PublicIP-or-PublicDNS>:5000
 ```
-![Welcometoexpress](./images/Welcome%20to%20express.png)
+![Welcometoexpress](./Images/Welcome%20to%20express.png)
 
 Routes
 There are three actions that our To-Do application needs to be able to do:
@@ -126,7 +126,7 @@ Change directory to routes folder.
 
 `cd routes`
 
-![Routes](./images/Create%20routes.png)
+![Routes](./Images/Create%20routes.png)
 
 Now, create a file api.js with the command below
 

@@ -736,4 +736,4 @@ When you are in the Todo directory run:
 Assuming no errors when saving all these files, our To-Do app should be ready and fully functional with the functionality discussed earlier: creating a task, deleting a task and viewing all your tasks.
 
 
-![Todopage](./images/Todopage.png)
+![Todopage](./Images/Todopage.png)
